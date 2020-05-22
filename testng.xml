@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" >
+<listeners>  
+<listener class-name="QAClick.Listener"/>  
+</listeners>  
+  <test name="Title validation">
+    <classes>
+      <class name="QAClick.ValidateTitle"/>
+        </classes>
+      </test>
+  <test name="Page Navigation">
+    <classes>
+      <class name="QAClick.ValidateNavigationBar"/>
+        </classes>
+  </test>
+  <test name="two login checks">
+    <classes>
+      <class name="QAClick.LoginFunctionality"/>
+        </classes>
+  </test>
+
+</suite> <!-- Suite -->

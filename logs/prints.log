@@ -1,0 +1,28 @@
+16:02:24.784 [main] INFO  resources.base2 - Clicked in login link
+16:02:27.183 [main] INFO  resources.base2 - Email ID input Succesfully
+16:02:27.295 [main] INFO  resources.base2 - Password input Succesfully
+16:02:29.784 [main] INFO  resources.base2 - User Succesfully logged in
+16:02:37.130 [main] INFO  resources.base2 - Driver is initialised
+16:02:42.457 [main] INFO  resources.base2 - Navigated to URL
+16:02:59.432 [main] INFO  resources.base2 - Clicked in login link
+16:03:00.131 [main] INFO  resources.base2 - Email ID input Succesfully
+16:03:00.234 [main] INFO  resources.base2 - Password input Succesfully
+16:03:01.901 [main] INFO  resources.base2 - User Succesfully logged in
+16:09:15.116 [main] INFO  resources.base2 - Driver is initialised
+16:09:22.894 [main] INFO  resources.base2 - Navigated to URL
+16:09:42.462 [main] INFO  resources.base2 - Driver is initialised
+16:09:57.925 [main] INFO  resources.base2 - Navigated to URL
+16:10:08.578 [main] INFO  resources.base2 - Successfully Validated Contact link
+16:10:08.578 [main] ERROR resources.base2 -  Not Validated Contact link
+16:10:17.778 [main] INFO  resources.base2 - Driver is initialised
+16:10:24.604 [main] INFO  resources.base2 - Navigated to URL
+16:10:45.882 [main] INFO  resources.base2 - Clicked in login link
+16:10:48.333 [main] INFO  resources.base2 - Email ID input Succesfully
+16:10:48.451 [main] INFO  resources.base2 - Password input Succesfully
+16:10:53.495 [main] INFO  resources.base2 - User Succesfully logged in
+16:11:00.217 [main] INFO  resources.base2 - Driver is initialised
+16:11:11.373 [main] INFO  resources.base2 - Navigated to URL
+16:11:45.099 [main] INFO  resources.base2 - Clicked in login link
+16:11:46.155 [main] INFO  resources.base2 - Email ID input Succesfully
+16:11:47.392 [main] INFO  resources.base2 - Password input Succesfully
+16:11:52.630 [main] INFO  resources.base2 - User Succesfully logged in
